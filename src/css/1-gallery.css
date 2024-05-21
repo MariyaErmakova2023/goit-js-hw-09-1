@@ -40,3 +40,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+.sl-counter {
+}
+.sl-overlay {
+  opacity: 1;
+  background: rgba(46, 47, 66, 0.8);
+}
